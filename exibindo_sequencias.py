@@ -1,2 +1,3 @@
-for num in range(9):
-    print(num*25)
+sequencia = [200,100,50,25]
+for num in sequencia:
+    print(num)
